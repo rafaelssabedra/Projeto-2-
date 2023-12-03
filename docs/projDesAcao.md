@@ -5,7 +5,7 @@
 
 ### Problema
 
-O cliente solicitou um aplicativo que faca a visualizacao de uma fracao da empresa que conste os dados dela. Atributos: Nome da acao, codigo de negociação, emissor, cnpj
+O cliente solicitou um aplicativo que faca a visualizacao de uma fracao da empresa que conste os dados dela. Atributos: Nome da ação e codigo de negociação
 
 Funcionalidade: compra ou venda
 
